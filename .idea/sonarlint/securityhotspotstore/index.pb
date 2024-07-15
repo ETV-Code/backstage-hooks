@@ -1,0 +1,53 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+plugins/plexo-view/package.json,9\1\912df5d066d2f4cf1dbe47fee8ef03aa23d038d7
+M
+packages/backend/src/index.ts,9\1\910627e07347c4b1f04c14b0d7f05bd9d843cde8
+<
+package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
+>
+backstage.json,a\b\ab7a615f3214ddac3e550b72dc7d542bcde46ee6
+O
+plugins/plexo-view/src/index.ts,e\6\e61d0f691c8b2ed34f05aa8471dd4eb48fc37dc5
+P
+ plugins/plexo-view/src/plugin.ts,d\9\d92cd38d12d894864cc6c7635ef47f6b04893d8b
+b
+2packages/app/src/components/catalog/EntityPage.tsx,c\6\c6902007c8aa960c72bec040e4f858801d862fe6
+w
+Gplugins/plexo-view/src/components/ArchitecturesTab/ArchitecturesTab.tsx,1\0\10f20bf513a5b540a5414c9e79a5e0b8d63fead0
+e
+5plugins/plexo-view/src/components/HomeTab/HomeTab.tsx,0\f\0f34d923004813bcf8ec99286dd350102bdc9a1e
+H
+packages/app/src/App.tsx,3\e\3ee8f61c3c9d703f6f6f93188b2f20f5409c6000
+Y
+)packages/app/src/components/Root/Root.tsx,7\4\7427581a6457136de2091ead52d9a04cf2e0edf5
+q
+Aplugins/plexo-view/src/components/DashboardsTab/DashboardsTab.tsx,b\6\b6a2b0ed387a41f2623f0c85ba117b07e6b2651e
+i
+9plugins/plexo-view/src/components/PlexoView/PlexoView.tsx,9\6\96c05a310b19c3847dbb7a328073c8da27d2d5aa
+n
+>plugins/plexo-view/src/components/PlexoView/PlexoView.test.tsx,1\3\132281a0867fbdac2f69bc213b51f30e4e74c2de
+v
+Fplugins/plexo-view/src/components/ApplicationsTab/ApplicactionsTab.tsx,2\b\2b81c0c85448ee19dc4bf490b14a0bceb94186d3
+‚
+Rplugins/plexo-view/src/components/ArchitecturesTab/components/ArchitectureCard.tsx,6\f\6fbfe7451ec321ba5da65ce234bc55abafe4bcee
+j
+:plugins/plexo-view/src/components/SearchBar/SearchBard.tsx,0\5\05ad32d59a08738757866faec9975785936302df
+‚
+Rplugins/plexo-view/src/components/ApplicationsTab/components/ApplicationsTable.tsx,9\2\920e4a683b564b77cffd3ed9bf4eb76a44c4d660
+Š
+Zplugins/plexo-view/src/components/ApplicationsTab/Functions/ApplicationsTableFunctions.tsx,8\b\8b57c33ca0422f107979b9cbae270cfd4e265d42
+‰
+Yplugins/plexo-view/src/components/ApplicationsTab/Functions/ApplicationsTableFunctions.ts,2\0\20fa06a73dcbfcbd260b88c44aee9c8e5e937ca4
+‚
+Rplugins/plexo-view/src/components/ApplicationsTab/components/EnhancedTableHead.tsx,6\4\64ed1a9be12caeb0c58db8f382b8e92a3ed50271
+t
+Dplugins/plexo-view/src/components/ApplicationsTab/hooks/useStyles.ts,1\5\15da2202874490929a519ed588d83ba32e5e136b
+y
+Iplugins/plexo-view/src/components/ApplicationsTab/interfaces/Interface.ts,1\a\1a6bc866e55de4841adc737b51a468c1c4707587
+n
+>plugins/plexo-view/src/components/ApplicationsTab/data/Data.ts,f\9\f9d5a361f46f3711affe034ae847a95a01fdd25b
+w
+Gplugins/plexo-view/src/components/ApplicationsTab/hooks/useFetchData.ts,9\d\9d480faf32e35b5077e4f28c3332e85282d53417
