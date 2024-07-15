@@ -28,12 +28,12 @@ export const ArchitectureCard = ({styleCard,title,version,hrefVersion,hrefButton
               <Typography variant="h6">
                 {title}
               </Typography>
-              <Typography paragraph>
+              <Typography>
                 {version}
               </Typography>
-              <Typography paragraph>
+              <Typography >
                 <Link href={hrefVersion}>
-                  Versiones anteriores
+                  Previous releases
                 </Link>
               </Typography>
             </Grid>

@@ -16,6 +16,12 @@ export const HomeTab = () => {
             PleXo is a new way to do your deployments; generating more speed in the environments and simplifying the deployment process of the infrastructure.
           </Typography>
 
+        </CardContent>
+      </Card>
+
+      <Card style={{marginTop: 10}}>
+        <CardContent>
+
           <Typography paragraph>
             The services you will find:
           </Typography>
@@ -24,7 +30,7 @@ export const HomeTab = () => {
             <Link href="/plexo-view/architectures">
               <b>Architectures: </b>
             </Link>
-             Architectures available in the organization such as:
+            Architectures available in the organization such as:
             <List>
               <ListItem>Cloud Native</ListItem>
               <ListItem>Traditional to neon</ListItem>
@@ -38,7 +44,7 @@ export const HomeTab = () => {
             <Link href="/plexo-view/applications">
               <b>Applications: </b>
             </Link>
-             Applications deployed in the organization
+            Applications deployed in the organization
           </Typography>
 
         </CardContent>
